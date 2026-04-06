@@ -1,80 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Siddharth's Portfolio</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #0f172a;
-            color: #f8fafc;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-        }
-        .profile-card {
-            background: #1e293b;
-            padding: 2rem;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-            text-align: center;
-            max-width: 400px;
-            width: 90%;
-        }
-        h1 { margin-bottom: 0.5rem; color: #38bdf8; }
-        p { color: #94a3b8; margin-bottom: 1.5rem; }
-        
-        .links-container {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-        .btn {
-            text-decoration: none;
-            padding: 12px;
-            border-radius: 8px;
-            font-weight: bold;
-            transition: transform 0.2s, background 0.2s;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        .btn:hover { transform: translateY(-2px); }
-        
-        .gfg { background-color: #2f8d46; color: white; }
-        .leetcode { background-color: #ffa116; color: #1a1a1a; }
-        .sql-tag { 
-            margin-top: 20px; 
-            font-size: 0.8rem; 
-            color: #64748b;
-            border-top: 1px solid #334155;
-            padding-top: 10px;
-        }
-    </style>
-</head>
-<body>
+# 🚀 Hi, I'm Siddharth! 
 
-    <div class="profile-card">
-        <h1>Siddharth</h1>
-        <p>B.Tech Student | AI & ML Enthusiast</p>
-        
-        <div class="links-container">
-            <a href="https://www.geeksforgeeks.org/profile/siddhartha0p3zy" class="btn gfg" target="_blank">
-                GeeksforGeeks Profile
-            </a>
-            
-            <a href="https://leetcode.com/u/w0AoQjcb6W/" class="btn leetcode" target="_blank">
-                LeetCode Profile
-            </a>
-        </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/B.Tech-3rd%20Year-blue?style=for-the-badge&logo=education" />
+  <img src="https://img.shields.io/badge/Location-Prayagraj%2C%20India-orange?style=for-the-badge&logo=googlemaps" />
+</p>
 
-        <div class="sql-tag">
-            💻 Database: SQL Enabled
-        </div>
-    </div>
+---
 
-</body>
-</html>
+### 🧠 My Digital Brain
+I'm an **AI & Machine Learning** enthusiast currently diving deep into **Computer Vision** and **Neural Networks**.
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Coding Challenges (The Grind)
+I’m actively solving **Data Structures & Algorithms** (DSA). You can track my daily progress here:
+
+| Platform | Profile Link | Status |
+| :--- | :--- | :--- |
+| **LeetCode** | [View My Profile](https://leetcode.com/u/w0AoQjcb6W/) | 🚀 Active |
+| **GeeksforGeeks** | [View My Profile](https://www.geeksforgeeks.org/profile/siddhartha0p3zy) | 🔥 Grinding |
+
+---
+
+### 🛠️ What I'm Building
+* **🖼️ Image Captioning:** Using ML to describe the world, one frame at a time.
+* **💰 Expense Tracker:** A sleek web app to keep my finances in check using **SQL**.
+* **🤖 Short News Creator:** Automating news summaries using AI.
+
+---
+
+### 📫 Connect with Me
+- **Current Goal:** Mastering SQL and applying to **Stanford Code in Place**.
+- **Fun Fact:** I'm an **F1** fan and a **Far Cry 3** survivor! 🏎️🎮
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0p3zy&layout=compact&theme=vision-friendly-dark" />
+</p>
