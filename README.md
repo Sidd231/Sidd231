@@ -14,13 +14,26 @@
 - 🏆 **Goal:** Actively contributing to Open Source and aiming for GSoC.
 
 ### 🛠 Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
+<table border="0">
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,php,js" />
+</td>
+</tr>
+<tr>
+<td><b>AI & Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mysql" />
+</td>
+</tr>
+<tr>
+<td><b>Web & Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode" />
+</td>
+</tr>
+</table>
 
 ### 📊 GitHub Stats
 <div align="center">
