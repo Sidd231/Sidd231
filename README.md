@@ -39,7 +39,7 @@ I track my problem-solving journey across these platforms. Feel free to check my
 ### 🏁 Beyond the Code
 - **F1 Fan:** Keeping up with the 2026 season standings. 🏎️
 - **Gamer:** Still surviving the Rook Islands in **Far Cry 3**. 🎮
-- **Future Plans:** Applying for **Stanford Code in Place** to level up my skills.
+
 
 <br />
 
