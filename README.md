@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Siddharth! 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-4rd%20Year-blue?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-4th%20Year-blue?style=for-the-badge&logo=education&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Prayagraj%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
